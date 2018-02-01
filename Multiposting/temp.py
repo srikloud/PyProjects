@@ -1,0 +1,1 @@
+s = 'asdf=5;iwant"thi's"123jasd'
